@@ -11,17 +11,18 @@ Bài 8: Lấy các phim có độ dài lớn hơn độ dài trung bình của c
 Bài 9: Tìm diễn viên đã tham gia nhiều phim hơn 30 bộ.
 Bài 10: Lấy các cửa hàng có doanh thu cao hơn 30000.
 
-Bài tập 11-20: Subquery trong SELECT và FROM
-Bài 11: Hiển thị mỗi phim kèm số lần được thuê và ranking so với các phim khác.
-Bài 12: Tính tỷ lệ % doanh thu của mỗi thể loại so với tổng doanh thu.
-Bài 13: Hiển thị khách hàng với số phim đã thuê và so sánh với trung bình.
-Bài 14: Tìm top 5 phim có doanh thu cao nhất trong mỗi thể loại.
-Bài 15: Tạo bảng tóm tắt: Mỗi tháng có bao nhiêu khách hàng mới, bao nhiêu doanh thu.
-Bài 16: Phân tích: Mỗi diễn viên có bao nhiêu % phim trong thể loại Action.
-Bài 17: Tính revenue per customer cho từng quốc gia.
-Bài 18: Tìm các phim có replacement_cost cao hơn 90% các phim cùng rating.
-Bài 19: So sánh doanh thu mỗi tháng với tháng trước đó (Month-over-Month growth).
-Bài 20: Tạo cohort analysis: Khách hàng tạo trong tháng nào có lifetime value cao nhất.
+-- BT ngoài giáo án (For advanced)
+-- Bài tập 11-20: Subquery trong SELECT và FROM
+-- Bài 11: Hiển thị mỗi phim kèm số lần được thuê và ranking so với các phim khác.
+-- Bài 12: Tính tỷ lệ % doanh thu của mỗi thể loại so với tổng doanh thu.
+-- Bài 13: Hiển thị khách hàng với số phim đã thuê và so sánh với trung bình.
+-- Bài 14: Tìm top 5 phim có doanh thu cao nhất trong mỗi thể loại.
+-- Bài 15: Tạo bảng tóm tắt: Mỗi tháng có bao nhiêu khách hàng mới, bao nhiêu doanh thu.
+-- Bài 16: Phân tích: Mỗi diễn viên có bao nhiêu % phim trong thể loại Action.
+-- Bài 17: Tính revenue per customer cho từng quốc gia.
+-- Bài 18: Tìm các phim có replacement_cost cao hơn 90% các phim cùng rating.
+-- Bài 19: So sánh doanh thu mỗi tháng với tháng trước đó (Month-over-Month growth).
+-- Bài 20: Tạo cohort analysis: Khách hàng tạo trong tháng nào có lifetime value cao nhất.
 
 PHẦN 2: COMMON TABLE EXPRESSIONS - CTEs
 Bài tập 21-30: CTE cơ bản (Single CTE)
