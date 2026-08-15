@@ -14,7 +14,7 @@ CTE
 
 CHAINED CTE
 
-1. Phân loại và đếm khách hàng
+1. Phân loại và đếm khách  (Theo tổng chi tiêu, trên 150 là VIP, trên 100 là Thân thiết, còn lại là Thường)
 2. Phân tích khách hàng "trung thành" (CHI TIÊU HƠN 100, SỐ LẦN GIAO DỊCH HƠN 25)
 3. Báo cáo phim "ế ẩm" (SỐ LẦN THUÊ ÍT HƠN 10)
 
